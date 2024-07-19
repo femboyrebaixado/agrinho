@@ -1,21 +1,40 @@
 .p1 {
  text-align: justify;
+ color: white;
 
 
 }
 
 h1 {
 text-align: center;
-
+color: white;
 
 }
 .h2h {
 text-align: center;
-
+color: white;
 
 
 }
 
+.planta {
+
+    width: 40%;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 40px 10px 10px 440px;
+    align-content: center;
+
+
+}
+
+
+body {
+
+background-color: black;
+
+
+    }
 
 
 
